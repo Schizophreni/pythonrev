@@ -1,1 +1,1 @@
-print("Hello, {}. welcome to Git.".format('RanWu') 
+print("Hello, {}. welcome to Git.".format('RanWu')) 
